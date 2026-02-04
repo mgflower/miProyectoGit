@@ -1,1 +1,1 @@
-Este es mi primer Branch para añadir una imagen al proyecto
+Mi primer proyecto en Git and GitHub
